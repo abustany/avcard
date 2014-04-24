@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AVCard</string>
+    <string name="button_pick_folder">Choose a folder with vcf files</string>
+    <string name="button_test_import">Check VCards</string>
+    <string name="button_import">Start import</string>
+    <string name="import_status_idle">Idle</string>
+    <string name="error_no_file_manager">No file manager available.\nTry to install OI File Manager.</string>
+    <string name="activity_title">AVCard VCard importer</string>
+    <string name="import_status_parse_success">All files parsed successfully</string>
+    <string name="import_status_parse_failure">Some files failed to parse</string>
+    <string name="import_status_save_success">All contacts created successfully</string>
+    <string name="import_status_save_failure">Some contacts failed</string>
+    <string name="import_status_no_chooser_activity">Could not find any activity for that</string>
+    <string name="import_status_no_files">No files to import</string>
+    <string name="import_status_chooser_failed">Could not pick a folder</string>
+    <string name="import_status_no_uri">No folder was returned by the chooser</string>
+    <string name="import_status_listing_folder">Listing folder…</string>
+    <string name="import_status_no_vcf_files">Found no VCF files there</string>
+    <string name="import_status_found_vcf_files">Found %d VCF files</string>
+    <string name="folder_chooser_title">Choose a folder</string>
+    <string name="folder_chooser_button">Use this folder</string>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AVCard</string>
+    <string name="button_pick_folder">Seleccionar la carpeta de VCards</string>
+    <string name="button_test_import">Verificar las VCards</string>
+    <string name="button_import">Importar las VCards</string>
+    <string name="import_status_idle">Ocioso</string>
+    <string name="error_no_file_manager">Ningún administrador de archivos encontrado.\nIntente instalar OI File Manager.</string>
+    <string name="activity_title">Importador de VCards AVCard</string>
+    <string name="import_status_parse_success">VCards analizadas con éxito</string>
+    <string name="import_status_parse_failure">Algunas VCards no han podido ser analizadas</string>
+    <string name="import_status_save_success">Contactos creados con éxito</string>
+    <string name="import_status_save_failure">Algunos contacts no han podido ser creados</string>
+    <string name="import_status_no_chooser_activity">Ninguna actividad disponible</string>
+    <string name="import_status_no_files">Ningún archivo para importar</string>
+    <string name="import_status_chooser_failed">Imposible seleccionar una carpeta</string>
+    <string name="import_status_no_uri">Ninguna carpeta seleccionada</string>
+    <string name="import_status_listing_folder">Leiendo la carpeta…</string>
+    <string name="import_status_no_vcf_files">Esta carpeta no contiene ninguna VCard</string>
+    <string name="import_status_found_vcf_files">%d VCard(s) encontrada(s)</string>
+    <string name="folder_chooser_title">Escoje una carpeta</string>
+    <string name="folder_chooser_button">Seleccionar esta carpeta</string>
+
+</resources>
