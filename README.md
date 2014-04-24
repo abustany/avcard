@@ -25,3 +25,10 @@ You can use GitHub issues for that.
 ## Why isn't the app on the Play Store?
 
 Because I didn't feel like forking out 25 bucks to Google for that.
+
+## Can I still get a ready made APK?
+
+Sure, there are some (unsigned) ones on the
+[releases page](https://github.com/abustany/avcard/releases). Else, rebuilding
+it is as simple as running `gradle assembleRelease`, assuming you have the
+Android Studio installed.
